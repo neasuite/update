@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "changelog-en": "<br>New features:<ul><li>Add and delete tasks</li><li>Assign task priorities (High, Medium, Low)</li><li>Categorize tasks (Work, Personal, etc.)</li><li>Filter tasks by category</li><li>Reminder notifications for overdue tasks</li><li>Search for tasks</li><li>Manually save and open tasks in a .json file</li><li>Automatically open tasks on startup from a .json file</li><li>Sort tasks by due date</li><li>Mark tasks as completed</li><li>Add descriptions to tasks</li></ul>",
+  "changelog-fr": "<br>Nouvelles fonctionnalités :<ul><li>Ajouter et supprimer des tâches</li><li>Attribuer des priorités aux tâches (Haute, Moyenne, Basse)</li><li>Catégoriser les tâches (Travail, Personnel, etc.)</li><li>Filtrer les tâches par catégorie</li><li>Notifications de rappel pour les tâches en retard</li><li>Rechercher des tâches</li><li>Enregistrer et ouvrir manuellement des tâches dans un fichier .json</li><li>Ouvrir automatiquement les tâches au démarrage depuis un fichier .json</li><li>Trier les tâches par date d'échéance</li><li>Marquer les tâches comme terminées</li><li>Ajouter des descriptions aux tâches</li></ul>",
+  "linkmac": "https://github.com/neasuite/update/releases/download/1.0.1/Neatask-latest.dmg",
+  "linkwin": "https://github.com/neasuite/update/releases/download/1.0.1/Neatask-latest.exe",
+}

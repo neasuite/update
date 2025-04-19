@@ -1,5 +1,0 @@
-{
-  "version": "1.0.0.0",
-  "changelog-en": "<br>New features:<ul><li>Add and delete tasks</li><li>Assign task priorities (High, Medium, Low)</li><li>Categorize tasks (Work, Personal, etc.)</li><li>Filter tasks by category</li><li>Reminder notifications for overdue tasks</li><li>Search for tasks</li><li>Manually save and open tasks in a .json file</li><li>Automatically open tasks on startup from a .json file</li><li>Sort tasks by due date</li></li></li></li><li>Mark tasks as completed</li></li></li><li>Add descriptions to tasks</li></ul>",
-  "link": "",
-}
